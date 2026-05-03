@@ -1,0 +1,6 @@
+---
+aliases:
+  - abstraction
+tags:
+  - rule
+---

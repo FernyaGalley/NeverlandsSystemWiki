@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"Neverland System\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#completed",
+      "color": {
+        "a": 1,
+        "rgb": 6608476
+      }
+    },
+    {
+      "query": "tag:#draft2",
+      "color": {
+        "a": 1,
+        "rgb": 1213437
+      }
+    },
+    {
+      "query": "tag:#draft",
+      "color": {
+        "a": 1,
+        "rgb": 454900
+      }
+    },
+    {
+      "query": "tag:#cue",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#actor",
+      "color": {
+        "a": 1,
+        "rgb": 14048444
+      }
+    },
+    {
+      "query": "tag:#cult  ",
+      "color": {
+        "a": 1,
+        "rgb": 8852099
+      }
+    },
+    {
+      "query": "tag:#position",
+      "color": {
+        "a": 1,
+        "rgb": 14417450
+      }
+    },
+    {
+      "query": "tag:#prop",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "tag:#feature  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "tag:#stage",
+      "color": {
+        "a": 1,
+        "rgb": 15113011
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.2484375,
+  "lineSizeMultiplier": 1.01875,
+  "collapse-forces": false,
+  "centerStrength": 0.296875,
+  "repelStrength": 2.60416666666667,
+  "linkStrength": 0,
+  "linkDistance": 30,
+  "scale": 0.23715864809243364,
+  "close": true
+}

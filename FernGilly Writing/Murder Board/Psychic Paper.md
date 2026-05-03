@@ -1,0 +1,1 @@
+A [[(Device)]] belonging to [[Doctor Who?]] that is presumably psychic; he claims it operates on the [[Hypothesis of Aura]].

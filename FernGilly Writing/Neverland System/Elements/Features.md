@@ -1,0 +1,5 @@
+---
+aliases:
+  - Feature
+  - Features
+---

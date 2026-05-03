@@ -1,0 +1,5 @@
+---
+aliases:
+  - Inkwell
+  - Inkwells
+---

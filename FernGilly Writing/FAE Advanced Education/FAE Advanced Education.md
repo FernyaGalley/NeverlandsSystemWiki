@@ -1,0 +1,9 @@
+*Laconic: Students demonstrate mastery by constructing logical proofs.*
+
+FAE ([[FAE Advanced Education]]) is a system for education that is driven by logical proofs and peer review. Students advance through three levels of education by demonstrating logical mastery of a subject and contributing to the body of knowledge; educators review the student contributions and determine if the student advances based on the logical rigor of their statements. This free education model encourages refining and iterating on previous knowledge in the database as a part of being educated.
+
+FAE students will master logical theory, will create proofs for their discipline and verify existing facts through experimentation. By involving themselves in the pursuit of knowledge, the hope is that every graduate of the program will be an expert in their chosen field and revolutionize future advancements while maintaining a culture of open scholarship.
+
+Each invention, proof or advancement for humanity submitted to the FAE Database is open source; each advancement is carefully logged with a promise to retain and track those advancements back to the source, and all contributors are granted the same level of credit to avoid academic dishonesty and credit theft. Large language models and other forms of academic dishonesty are carefully monitored and removed from the model over time, with iteration over previous experiments and peer review a natural part of the education process.
+
+If you would like to become an apprentice of the FAE program, contact @mail. If you would like to become a master educator, contact our team at @mail. As we onboard more volunteer faculty, we should be able to expand the classes we offer and the knowledge in our database.

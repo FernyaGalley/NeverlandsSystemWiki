@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "",
+    "exportPath": "/home/ferngilly/Documents/NeverlandsSystemWiki/Netrim",
     "filesToExport": [],
     "useFallbackRenderer": false,
     "addBodyClasses": true,

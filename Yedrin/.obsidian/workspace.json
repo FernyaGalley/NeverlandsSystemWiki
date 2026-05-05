@@ -86,13 +86,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neverland System/Cues/to audition.md",
+                "file": "Neverland System/Theories/Rule of Economies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "to audition"
+              "title": "Rule of Economies"
             }
           }
         ],
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neverland System/Cues/to audition.md",
+                "file": "Neverland System/Theories/Rule of Economies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for to audition"
+              "title": "Backlinks for Rule of Economies"
             }
           },
           {
@@ -296,6 +296,7 @@
   },
   "active": "3eea88da7fb42050",
   "lastOpenFiles": [
+    "Neverland System/Cues/to audition.md",
     "Neverland System/Elements/Narratives.md",
     "Neverland System/Elements/Players/Players.md",
     "Neverland System/Elements/Props.md",
@@ -321,7 +322,6 @@
     "Neverland System/Cues/to estrange.md",
     "Neverland System/Conflict State Handbook.md",
     "Neverland System/Cues/to establish.md",
-    "Neverland System/Elements/Conflicts.md",
     "Neverland System/Chimeras",
     "Neverland System/Elements/Racks",
     "Neverland System/Elements/Praxis",

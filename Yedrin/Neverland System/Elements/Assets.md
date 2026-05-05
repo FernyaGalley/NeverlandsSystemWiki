@@ -15,4 +15,4 @@ An **Asset** is a [[Props|Prop]] or [[Stages|Stage]] that has been [[to pocket|p
 
 When an Asset is used by a Cultist during an Act, that Asset is unable to be used by any other Cultist that Act; that Cultist may be able to use the Asset multiple times, or it may only have a single use for the entire Act before needing to be refilled. Directors should use [[Appropriateness and Relevance|common sense judgement]] to determine how many times an Asset can be used during an Act. 
 
-If the Asset is a service another Cultist provides, then a Cultist should be able to receive the services of the other Cultist for a [[Rule of Economies|negligible]] fee. Cultists are only able to provide a single service for a negligible fee over the course of an Act; that service can be comprehensive, elaborate or even [[Holism|holistic]]
+If the Asset is a service another Cultist provides, then a Cultist should be able to receive the services of the other Cultist for a [[Theory of Economics|negligible]] fee. Cultists are only able to provide a single service for a negligible fee over the course of an Act; that service can be comprehensive, elaborate or even [[Holism|holistic]]
